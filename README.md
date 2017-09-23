@@ -1,7 +1,7 @@
 # trabajarGithubBitbucket
 trabajarGithubBitbucket
 
-[a link](marcgg.com/blog/2016/04/25/git-multiple-remotesd/)
+[Link guia para trabajarGithubBitbucket](marcgg.com/blog/2016/04/25/git-multiple-remotesd/)
 
 Let’s imagine we set up two entirely different remotes for the same project:
 
