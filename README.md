@@ -1,11 +1,11 @@
 # trabajarGithubBitbucket
 trabajarGithubBitbucket
 
-marcgg.com/blog/2016/04/25/git-multiple-remotesd/
+[a link](marcgg.com/blog/2016/04/25/git-multiple-remotesd/)
 
 Let’s imagine we set up two entirely different remotes for the same project:
 
-$ git remote add bitbucket git@bitbucket.org:marcgg/multiple-origins.git
+$ git remote add bitbucket git@bitbucket.org:marcgg/multiple-origins.git <br /><br />
 $ git remote add github git@github.com:marcgg/multiple-origins.git
 
 Now I can explicitely push to either project, which is quite convenient:
