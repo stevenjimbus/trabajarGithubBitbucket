@@ -25,6 +25,9 @@ como se debe ver el config del .git
 open file "config"
 
 https://stackoverflow.com/questions/17570446/how-to-add-gitbitbucket-to-existing-source-code-folder
+
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 ```
 [core]
 	repositoryformatversion = 0
