@@ -32,7 +32,7 @@ open file "config"
 	bare = false
 	logallrefupdates = true
 [remote "bitbucket"]
-	url = git@bitbucket.org:stevenjimbus/anteproyecto.git
+	url = git@bitbucket.org:your_user_name/anteproyecto.git
 	fetch = +refs/heads/*:refs/remotes/bitbucket/*
 ```
 
