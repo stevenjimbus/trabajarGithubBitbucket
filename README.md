@@ -21,7 +21,7 @@ git push bitbucket master
   
 como se debe ver el config del .git
 
-//PATH_IN_YOUR_SYSTEM/.git
+//PATH_IN_YOUR_SYSTEM/.git  <br />
 open file "config"
 
 
