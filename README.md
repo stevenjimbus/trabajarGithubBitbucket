@@ -24,7 +24,7 @@ como se debe ver el config del .git
 //PATH_IN_YOUR_SYSTEM/.git  <br />
 open file "config"
 
-
+https://stackoverflow.com/questions/17570446/how-to-add-gitbitbucket-to-existing-source-code-folder
 ```
 [core]
 	repositoryformatversion = 0
