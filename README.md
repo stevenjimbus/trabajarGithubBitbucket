@@ -24,6 +24,8 @@ como se debe ver el config del .git
 //PATH_IN_YOUR_SYSTEM/.git
 open file "config"
 
+
+```
 [core]
 	repositoryformatversion = 0
 	filemode = true
@@ -32,6 +34,7 @@ open file "config"
 [remote "bitbucket"]
 	url = git@bitbucket.org:stevenjimbus/anteproyecto.git
 	fetch = +refs/heads/*:refs/remotes/bitbucket/*
+```
 
 
 
