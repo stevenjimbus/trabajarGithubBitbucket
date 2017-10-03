@@ -49,3 +49,8 @@ https://github.com/{username}/{projectname}/archive/{sha}.zip
 As a general rule, if you have a url that works, you can replace "master" with the specific sha you want.
 
 
+
+Trabajar con pull
+https://stackoverflow.com/questions/2294313/how-to-download-a-branch-with-git
+
+
