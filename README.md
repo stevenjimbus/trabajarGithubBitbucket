@@ -39,5 +39,13 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 	fetch = +refs/heads/*:refs/remotes/bitbucket/*
 ```
 
+#Descargar commit especifico
+
+
+You can put the sha that you want in the download url:
+
+https://github.com/{username}/{projectname}/archive/{sha}.zip
+
+As a general rule, if you have a url that works, you can replace "master" with the specific sha you want.
 
 
