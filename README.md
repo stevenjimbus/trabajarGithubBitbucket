@@ -54,3 +54,13 @@ Trabajar con pull
 https://stackoverflow.com/questions/2294313/how-to-download-a-branch-with-git
 
 
+git clone https://stevenjimbus@bitbucket.org/stevenjimbus/rcnn_live_detector.git
+git checkout -b modificacion_rcnn_live_detector 
+git pull origin modificacion_rcnn_live_detector 
+
+
+
+	
+
+	
+
